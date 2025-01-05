@@ -18,3 +18,7 @@ When prompted, provide the password.
 ### Module 1: LEDs with Arduino and Raspberry Pi
 
 * https://www.instructables.com/Connect-Your-Raspberry-Pi-and-Arduino-Uno/
+
+### Module 2: Arduino Temperature Sensor affecting LEDs
+
+* Project 03 in the Arduino book
