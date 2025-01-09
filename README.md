@@ -22,3 +22,41 @@ When prompted, provide the password.
 ### Module 2: Arduino Temperature Sensor affecting LEDs
 
 * Project 03 in the Arduino book
+
+
+## End Goal
+
+* 1' x 2' indoor planter with temperature, humidity, and pH sensors.
+* Self watering
+* Self misting if needed
+* Alerts
+* Dashboard and or integration with HomeAssistant
+
+## Roadmap
+
+- [ ] Try to convert Arduino code to pyfirmata so it could all be done in python
+- [ ] Work through learning modules in Arduino workbook
+- [ ] Design the planter box and map out integration points for each sensor, controller and wires.
+- [ ] Build planter box
+- [ ] Build in smart sensors
+- [ ] Build a Dashboard
+    - Temperature
+    - Humidity
+    - Water reservoir level
+    - Soil pH
+- [ ] Set up alerting/notification system
+    - Water reservoir level is low
+- [ ] Automated remediation (watering, misting, pH adjustment, etc)
+- [ ] Camera hooked up to AI processing which estimates what produce is available for harvest.
+    - [ ] Diagnose unhealthy plants and suggest remediation steps. (ChatGPT or local LLM integration)
+
+
+## Hardware
+
+* Grow Lights
+* Temperature sensor
+* Humidity sensor
+* Multiple moisture sensors
+* pH sensor
+* Micro SD card for raspberry pi
+* Irrigation system and pump
