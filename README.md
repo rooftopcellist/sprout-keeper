@@ -15,14 +15,17 @@ When prompted, provide the password.
 
 ## Learning Projects
 
-### Module 1: LEDs with Arduino and Raspberry Pi
+#### Module 1: LEDs with Arduino and Raspberry Pi
 
 * https://www.instructables.com/Connect-Your-Raspberry-Pi-and-Arduino-Uno/
 
-### Module 2: Arduino Temperature Sensor affecting LEDs
+#### Module 2: Arduino Temperature Sensor affecting LEDs
 
 * Project 03 in the Arduino book
 
+#### Module 3: Color Mixing Lamp
+
+#### Module 4: Temperature Lava Lamp
 
 ## End Goal
 
